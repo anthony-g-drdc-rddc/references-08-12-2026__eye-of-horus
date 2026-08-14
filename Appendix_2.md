@@ -155,30 +155,20 @@ physical borders. As adversarial grey-zone warfare intensifies, our response mus
 disrupt, prevent, and deter these threats. Democratic resilience cannot be treated as a soft add-on to hard
 security. NATO and its member states must adapt their policies to reflect this new reality.
 
-*COA suggestor*
-*Suggested Course of Action Report*
+COA suggestor
+Suggested Course of Action Report
 
-*Recognition and Recategorization: Recognize the rapidly escalating information warfare as an integral part of modern warfare. This includes reforming NATO’s current definition of defence spending to incorporate the information and cognitive warfare components.*
-
-*Investment in Information Frontline Actors: Allocate substantial resources and financial assistance for independent journalists, human rights defenders, disinformation researchers, and exiled activists whom are integral to the defence of our democracies.*
-
-*Protection from Transnational Repression: Local and exiled journalists, activists, and critics continue to face severe repression. Implement measures to protect these professionals from harassment, intimidation, surveillance and violence. Recognize these attacks as national security threats and respond accordingly.*
-
-*Reclassification of Democratic Support: Cease treating support and defence of democracy as mere charity. Understand its value as an element of deterrence and defence against enemies of NATO.*
-
-*Enhancement of Internal Defence Spending Alter NATO’s existing definitions of defence expenditures to include resources devoted towards combating disinformation, fostering cognitive resilience, and protecting exiled media professionals and activists.*
-
-*Learning from Frontline Allies: Emulate the successful strategies and methods implemented by frontline states such as Ukraine, the Baltic states, and Poland. They have already proven their resilience against adversary’s assaults through strategic fusion of civil-military resources and investing in cognitive and digital security.*
-
-*Deterrence through Independent Journalism and Media Literacy: Fund programs that promote media literacy and independent journalism as a means to counteract disinformation and propaganda spread by adversaries.*
-
-*Civil-Military Partnerships: Foster partnerships between civil society and military entities to counter information warfare. These collaborations can significantly contribute to safeguarding the integrity of our cognitive and information spaces.*
-
-*Policy Update and Accountability: Adopt mechanisms reflecting these changes in NATO’s security policies and defence expenditure evaluations to ensure accountability and effectiveness.*
-
-*Expansion of NATO Strategic Communications Centre: Enlarge the function of the NATO Strategic Communications Centre of Excellence to include research and increased support for exiled civil society groups and independent media. This expansion will strengthen the overall response capacity of the alliance.*
-
-*By adopting this course of action, NATO can protect and defend the cognitive sovereignty of member nations and ensure active deterrence against authoritarian elements aiming to weaken our democratic societies and institutions.*
+* Recognition and Recategorization: Recognize the rapidly escalating information warfare as an integral part of modern warfare. This includes reforming NATO’s current definition of defence spending to incorporate the information and cognitive warfare components.
+* Investment in Information Frontline Actors: Allocate substantial resources and financial assistance for independent journalists, human rights defenders, disinformation researchers, and exiled activists whom are integral to the defence of our democracies.
+* Protection from Transnational Repression: Local and exiled journalists, activists, and critics continue to face severe repression. Implement measures to protect these professionals from harassment, intimidation, surveillance and violence. Recognize these attacks as national security threats and respond accordingly.
+* Reclassification of Democratic Support: Cease treating support and defence of democracy as mere charity. Understand its value as an element of deterrence and defence against enemies of NATO.
+* Enhancement of Internal Defence Spending: Alter NATO’s existing definitions of defence expenditures to include resources devoted towards combating disinformation, fostering cognitive resilience, and protecting exiled media professionals and activists.
+* Learning from Frontline Allies: Emulate the successful strategies and methods implemented by frontline states such as Ukraine, the Baltic states, and Poland. They have already proven their resilience against adversary’s assaults through strategic fusion of civil-military resources and investing in cognitive and digital security.
+* Deterrence through Independent Journalism and Media Literacy: Fund programs that promote media literacy and independent journalism as a means to counteract disinformation and propaganda spread by adversaries.
+* Civil-Military Partnerships: Foster partnerships between civil society and military entities to counter information warfare. These collaborations can significantly contribute to safeguarding the integrity of our cognitive and information spaces.
+* Policy Update and Accountability: Adopt mechanisms reflecting these changes in NATO’s security policies and defence expenditure evaluations to ensure accountability and effectiveness.
+* Expansion of NATO Strategic Communications Centre: Enlarge the function of the NATO Strategic Communications Centre of Excellence to include research and increased support for exiled civil society groups and independent media. This expansion will strengthen the overall response capacity of the alliance.
+By adopting this course of action, NATO can protect and defend the cognitive sovereignty of member nations and ensure active deterrence against authoritarian elements aiming to weaken our democratic societies and institutions.
 ```
 
 **Jasper**
