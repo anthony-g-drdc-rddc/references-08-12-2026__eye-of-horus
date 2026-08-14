@@ -154,7 +154,6 @@ that defending cognitive sovereignty and the integrity of our information space 
 physical borders. As adversarial grey-zone warfare intensifies, our response must be equally robust—designed to
 disrupt, prevent, and deter these threats. Democratic resilience cannot be treated as a soft add-on to hard
 security. NATO and its member states must adapt their policies to reflect this new reality.
-```
 
 *COA suggestor*
 *Suggested Course of Action Report*
@@ -180,6 +179,7 @@ security. NATO and its member states must adapt their policies to reflect this n
 *Expansion of NATO Strategic Communications Centre: Enlarge the function of the NATO Strategic Communications Centre of Excellence to include research and increased support for exiled civil society groups and independent media. This expansion will strengthen the overall response capacity of the alliance.*
 
 *By adopting this course of action, NATO can protect and defend the cognitive sovereignty of member nations and ensure active deterrence against authoritarian elements aiming to weaken our democratic societies and institutions.*
+```
 
 **Jasper**
 
