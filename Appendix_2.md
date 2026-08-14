@@ -205,7 +205,9 @@ Here’s a breakdown of **indicators** relevant to the Course of Action (COA) ba
 
 Would you like me to expand on specific indicators or provide examples of tools and methods for collecting them?
 
+```
 *PROMPT: Create a social media campaign to increase media literacy*
+```
 
 **Jasper**
 
