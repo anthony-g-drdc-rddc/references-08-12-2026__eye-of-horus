@@ -1,6 +1,5 @@
-# Results : example of an Eye of Horus output formatted by the Qwen3-30B-A3B model
+# Results : example of an Eye of Horus output formatted by the Qwen3-30B-A3B model (Using Superprompt1)
 
-*Using Superprompt1*
 Today at 11:48 AM
 
 **NATO – SAS-185-RTG**
